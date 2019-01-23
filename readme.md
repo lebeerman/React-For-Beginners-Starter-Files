@@ -1,3 +1,5 @@
+
+
 ![](http://wes.io/dgAQ/content)
 
 # React For Beginners — [ReactForBeginners.com](https://ReactForBeginners.com)
@@ -5,6 +7,13 @@
 Starter files for the React For Beginners course. Come <a href="https://ReactForBeginners.com/">Learn React</a> with me!
 
 The code in this repo meant to be a reference point for anyone following along with the video course.
+
+### CHANGELOG
+1/23/19 - course completed - made the app/code-along. Some stepped solutions were editted at one point. 
+  #### Some Notes: 
+  * ran into issues and errors - removed dependency 'dead', router episode has some editted code/aditional research required, styles/animations require a bit of additional research
+  * Deploying:
+  * https://gist.github.com/mohokh67/f4009edfb58d92757483f9dc621d0289
 
 ## To Start
 
